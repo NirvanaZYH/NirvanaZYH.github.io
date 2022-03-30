@@ -1,5 +1,5 @@
 ## Welcome to My Homepage
-
+<hr>
 <table border="0">
   <tr>
     <td width="35%">
