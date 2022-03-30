@@ -11,7 +11,7 @@
       <p><b>政治面貌：共青团员<br>民族：汉族<br>户籍：河北省邯郸市<br>现所在地：河北省廊坊市</b></p>
     </td>
     <td width="30%">
-      <img src="/zyh.jpg" width="60%">      
+      <img src="/zyh.jpg" heighth="80%" width="80%">      
     </td>
   </tr>
 </table>
