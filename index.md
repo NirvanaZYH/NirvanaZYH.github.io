@@ -13,8 +13,8 @@
       <p><b>邮箱：1181767529@qq.com</b></p>
       <p><b>地址：河北省廊坊市</b></p>
     </td>
-    <td width="25%">
-      <img src="/zyh.jpg" width="100%">      % 插入证件照代码
+    <td width="30%">
+      <img src="/zyh.jpg" width="100%">      
     </td>
   </tr>
 </table>
