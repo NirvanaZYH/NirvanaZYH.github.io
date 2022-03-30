@@ -1,9 +1,4 @@
 ## Welcome to My Homepage
-### 个人信息
-#### 姓名：张宇恒
-#### 学历：大学本科
-#### 邮箱：1181767529@qq.com
-#### 所在地：河北省廊坊市
 
 <table border="0">
   <tr>
@@ -53,3 +48,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### 个人信息
+#### 姓名：张宇恒
+#### 学历：大学本科
+#### 邮箱：1181767529@qq.com
+#### 所在地：河北省廊坊市
