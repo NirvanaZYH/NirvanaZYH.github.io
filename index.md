@@ -17,7 +17,7 @@
       <p><b>学历：大学本科<br>专业：软件工程</b></p>
       <p><b>邮箱：1181767529@qq.com<br>所在地：河北省廊坊市</b></p>
     </td>
-    <td width="25%">
+    <td width="35%">
       <img src="/zyh.jpg" width="100%">      
     </td>
   </tr>
