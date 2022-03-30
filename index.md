@@ -9,11 +9,11 @@
   <tr>
     <td width="75%">
       <h1>张宇恒</h1>
-      <p><b>大学本科|软件工程</b></p>
+      <p><b>软件工程|大学本科</b></p>
       <p><b>邮箱：1181767529@qq.com</b></p>
       <p><b>地址：河北省廊坊市</b></p>
     </td>
-    <td width="30%">
+    <td width="35%">
       <img src="/zyh.jpg" width="100%">      
     </td>
   </tr>
